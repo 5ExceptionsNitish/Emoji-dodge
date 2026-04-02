@@ -1,6 +1,12 @@
 # Prompt history
 
-User prompts from this project chat (chronological).
+User prompts from this project chat (chronological codex).
+Emoji Dodge Application I want to create ios application. The feature list for the application is to create a simple game with screens:
+1. Start Screen to start the game. Play button sound option at the top and add any random sound for now or write the code.
+2. The play screen where the camera captures the live face of the user and emojis are dropping off from the top. And score calculator to dodge the emojis. And if any emoji hit the face game over.
+3. The third screen have restart button and score counted where we hit the emoji and get proper score.
+
+User prompts from this project chat (chronological cursor).
 
 1. **Camera crash (`CameraFaceView.swift`)**  
    > App is crashing. Verify and fix that into cameraFaceView.swift file  
